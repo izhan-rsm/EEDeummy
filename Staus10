@@ -1,0 +1,115 @@
+{
+    "@odata.context": "https://entityengine-stage.apps.rsmuk.com/api/Client/$metadata#Status10",
+    "value": [
+        {
+            "C_EntityKey": 1,
+            "ClientKey": 10000,
+            "ClientStatus": "Current Client",
+            "ClientType": "Account",
+            "IsInternational": 0,
+            "IsOrganisation": 1,
+            "IsActive": 0,
+            "HasOpenEngagement": false,
+            "EngagementActionActive": 1
+        },
+        {
+            "C_EntityKey": 2,
+            "ClientKey": 100039,
+            "ClientStatus": "Unknown Client Status",
+            "ClientType": "Account",
+            "IsInternational": null,
+            "IsOrganisation": 1,
+            "IsActive": 0,
+            "HasOpenEngagement": false,
+            "EngagementActionActive": 0
+        },
+        {
+            "C_EntityKey": 3,
+            "ClientKey": 10012,
+            "ClientStatus": "Unknown Client Status",
+            "ClientType": "Account",
+            "IsInternational": null,
+            "IsOrganisation": 1,
+            "IsActive": 0,
+            "HasOpenEngagement": false,
+            "EngagementActionActive": 0
+        },
+        {
+            "C_EntityKey": 4,
+            "ClientKey": 100266,
+            "ClientStatus": "Unknown Client Status",
+            "ClientType": "Account",
+            "IsInternational": null,
+            "IsOrganisation": 1,
+            "IsActive": 0,
+            "HasOpenEngagement": false,
+            "EngagementActionActive": 0
+        },
+        {
+            "C_EntityKey": 5,
+            "ClientKey": 100308,
+            "ClientStatus": "Unknown Client Status",
+            "ClientType": "Account",
+            "IsInternational": null,
+            "IsOrganisation": 1,
+            "IsActive": 0,
+            "HasOpenEngagement": false,
+            "EngagementActionActive": 0
+        },
+        {
+            "C_EntityKey": 6,
+            "ClientKey": 100344,
+            "ClientStatus": "Unknown Client Status",
+            "ClientType": "Account",
+            "IsInternational": null,
+            "IsOrganisation": 1,
+            "IsActive": 0,
+            "HasOpenEngagement": false,
+            "EngagementActionActive": 0
+        },
+        {
+            "C_EntityKey": 7,
+            "ClientKey": 100382,
+            "ClientStatus": "Unknown Client Status",
+            "ClientType": "Account",
+            "IsInternational": null,
+            "IsOrganisation": 1,
+            "IsActive": 0,
+            "HasOpenEngagement": false,
+            "EngagementActionActive": 0
+        },
+        {
+            "C_EntityKey": 8,
+            "ClientKey": 100419,
+            "ClientStatus": "Unknown Client Status",
+            "ClientType": "Account",
+            "IsInternational": null,
+            "IsOrganisation": 1,
+            "IsActive": 0,
+            "HasOpenEngagement": false,
+            "EngagementActionActive": 0
+        },
+        {
+            "C_EntityKey": 9,
+            "ClientKey": 100457,
+            "ClientStatus": "Unknown Client Status",
+            "ClientType": null,
+            "IsInternational": null,
+            "IsOrganisation": 0,
+            "IsActive": 0,
+            "HasOpenEngagement": false,
+            "EngagementActionActive": 0
+        },
+        {
+            "C_EntityKey": 10,
+            "ClientKey": 100497,
+            "ClientStatus": "Unknown Client Status",
+            "ClientType": "Account",
+            "IsInternational": null,
+            "IsOrganisation": 1,
+            "IsActive": 0,
+            "HasOpenEngagement": false,
+            "EngagementActionActive": 0
+        }
+    ]
+}
