@@ -45,7 +45,7 @@
       "StatutoryDeadlinesAccountsToCompaniesHouse": "2025-09-30T00:00:00Z",
       "StatutoryDeadlinesAccountsAndTaxToHMRC": "2025-09-30T00:00:00Z",
 
-      "Issues": "Missing fixed asset register; Awaiting bank confirmations",
+      "Issues": 9,
 
       "ProjectManager": "Sarah Mitchell",
       "PlanITProjectManager": "David Thompson",
