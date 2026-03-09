@@ -1,0 +1,69 @@
+{
+  "@odata.context": "https://entityengine-stage.apps.rsmuk.com/api/Engagement/$metadata#EngagementExtendedView",
+  "value": [
+    {
+      "ESE": "ESE-45821",
+      "EngagementName": "ABC Holdings Ltd – 2025 Statutory Accounts",
+      "EngagementCode": "ENG-ACC-2025-001",
+      "ServiceGroup": "Accounts Production",
+
+      "LastActivityClientType": "Private Limited Company",
+
+      "AccountingFramework": "UK GAAP (FRS 102)",
+      "CompanySize": "Medium",
+      "ClientSystemOfRecord": "CCH Central",
+      "GroupStructure": "Parent with 2 subsidiaries",
+      "AccountsFilingResponsibility": "RSM",
+      "AdditionalReviewsRequired": "Technical Partner Review",
+      "CitadelCompletionStatus": "In Progress",
+
+      "LOEDateOfSignature": "2025-01-12T00:00:00Z",
+      "LOEStartDate": "2025-01-01T00:00:00Z",
+      "LOEEndDate": "2025-12-31T00:00:00Z",
+      "LinkToCitadel": "https://citadel.rsmuk.com/engagement/ENG-ACC-2025-001",
+      "LinkToLOE": "https://docs.rsmuk.com/loe/ENG-ACC-2025-001.pdf",
+
+      "PasoCodeIncEngagementCode": "PASO-44102-ENG-ACC-2025-001",
+
+      "BudgetedFee": 45000,
+      "BilledToDate": 18000,
+      "EngagementMargin": "32%",
+      "EngagementRecovery": "85%",
+      "BillsOutstandingAwaitingApproval": 6000,
+
+      "PlanningStatus": "Completed",
+      "AccountsCompilationStatus": "In Progress",
+      "CompletionStatus": "Not Completed",
+
+      "NumberOfOutstandingIssues": 4,
+      "TotalNumberOfIssues": 10,
+
+      "Cirrus": "Active",
+
+      "KeyMilestones": "Planning complete; Fieldwork started; Draft accounts preparation",
+
+      "StatutoryDeadlinesAccountsToCompaniesHouse": "2025-09-30T00:00:00Z",
+      "StatutoryDeadlinesAccountsAndTaxToHMRC": "2025-09-30T00:00:00Z",
+
+      "Issues": "Missing fixed asset register; Awaiting bank confirmations",
+
+      "ProjectManager": "Sarah Mitchell",
+      "PlanITProjectManager": "David Thompson",
+
+      "ClientContacts": "James Walker (Finance Director); Emma Clarke (Financial Controller)",
+
+      "StatusOfMapIT": "Synced",
+      "MapIT": "Enabled",
+      "DateOfLastMapITToCCHSync": "2025-02-10T14:22:00Z",
+
+      "TaskName": "Prepare draft accounts",
+      "TaskAssignedTo": "Michael Brown",
+      "TaskStatus": "In Progress",
+
+      "LinkToEngagement": "https://engagements.rsmuk.com/ENG-ACC-2025-001",
+
+      "NumberRequested": 12,
+      "NumberReceived": 8
+    }
+  ]
+}

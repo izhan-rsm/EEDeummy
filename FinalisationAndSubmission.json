@@ -1,0 +1,60 @@
+{
+  "@odata.context": "https://entityengine-stage.apps.rsmuk.com/api/Engagement/$metadata#EngagementExtendedView",
+  "value": [
+    {
+      "CSE": "Duley, Alan",
+      "CSEPasoKey": "140,366",
+      "EngagementName": "ABC Holdings Ltd – 2025 Statutory Accounts",
+      "EngagementCode": 1928737,
+      "PasoKey": "20,319",
+      "PeriodEndDate": "2002-06-20T00:00:00Z",
+
+      "Cirrus": "#/CreateEngagement/97182",
+      "CirrusFileClosed": null,
+
+      "CompletionStatus": "Not Completed",
+      "PostCompletionStatus": null,
+
+      "MapIT": null,
+      "MapITSignOff": null,
+      "MapITFileClosed": null,
+
+      "ESE": "ESE-45821",
+      "ServiceGroup": "Accounts Production",
+      "ServiceLine": null,
+      "PeriodStartDate": "2002-03-27T00:00:00Z",
+      "ClientType": "Account",
+
+      "AccountingFramework": "UK GAAP (FRS 102)",
+      "CompanySize": "Medium",
+      "IsTheClientAudited": null,
+      "IsRSMTheAuditorForThisClient": null,
+      "WhoTheAuditorIs": null,
+      "ClientSystemOfRecord": "CCH Central",
+      "GroupStructure": "Parent with 2 subsidiaries",
+      "AccountsFilingResponsibility": "RSM",
+
+      "ProjectManager": "Sarah Mitchell",
+      "ClientContacts": "James Walker (Finance Director); Emma Clarke (Financial Controller)",
+
+      "CitadelCompletionStatus": "In Progress",
+      "LOEDateOfSignature": "2025-01-12T00:00:00Z",
+      "LOEStartDate": "2025-01-01T00:00:00Z",
+      "LOEEndDate": "2025-12-31T00:00:00Z",
+      "LinkToLOE": "https://docs.rsmuk.com/loe/ENG-ACC-2025-001.pdf",
+      "LinkToCitadel": "https://citadel.rsmuk.com/engagement/ENG-ACC-2025-001",
+
+      "PASOCodeIncEngagementCode": "PASO-44102-ENG-ACC-2025-001",
+      "BudgetedFee": 45000,
+      "BilledToDate": 18000,
+      "CurrentNetWIP": null,
+      "EngagementMargin": "32%",
+      "EngagementRecovery": "85%",
+
+      "PlanningStatus": "Completed",
+      "AccountsCompilationStatus": null,
+
+      "TotalNumberOfIssues": 10
+    }
+  ]
+}
