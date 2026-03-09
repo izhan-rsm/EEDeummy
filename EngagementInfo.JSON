@@ -9,6 +9,8 @@
 
       "LastActivity": "12/09/2022",
 
+      "ClientType": "Accounting",
+
       "AccountingFramework": "UK GAAP (FRS 102)",
       "CompanySize": "Medium",
       "ClientSystemOfRecord": "CCH Central",
